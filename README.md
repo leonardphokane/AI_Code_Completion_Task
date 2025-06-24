@@ -65,6 +65,9 @@ Given diagnostic features in the dataset, the goal is to predict the **priority 
    ```bash
    pip install pandas numpy scikit-learn joblib
 
+---
+
+
 🧑‍💻 Author
 Leonard Phokane Student @ PowerLearn Project Focus: Software Engineering + Machine Learning + Ethical AI
 
