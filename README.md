@@ -68,6 +68,9 @@ Given diagnostic features in the dataset, the goal is to predict the **priority 
 ---
 
 
-🧑‍💻 Author
-Leonard Phokane Student @ PowerLearn Project Focus: Software Engineering + Machine Learning + Ethical AI
+## 🧑‍💻 Author  
+Leonard Phokane<br>
+Student @ PowerLearn Project<br>
+Focus: Software Engineering + Machine Learning + Ethical AI
+
 
